@@ -86,7 +86,7 @@ img{
 #msg{
     display: flex;
 }
-    .score-board{
+.score-board{
     gap:5rem;
 }
 }
